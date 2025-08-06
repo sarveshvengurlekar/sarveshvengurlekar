@@ -21,6 +21,7 @@ I’m an **engineer & creator** passionate about **building solutions that blend
 ## 🏆 Key Projects  
 
 ### 🎛️ **Signal Processing Virtual Lab**
+- Link : https://sp-virtuallab.fcrit.ac.in
 - 🖥️ A **virtual lab** for students to learn and experiment with **signal processing**.  
 - 🎚️ Includes FFT, filtering, mixing, amplitude scaling & visualization.  
 - 📊 Web-based interface for **interactive learning and research**.
