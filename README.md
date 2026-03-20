@@ -1,30 +1,15 @@
 <!-- 🚀 Futuristic GitHub Profile README -->
 
 <h1 align="center">👋 Hey there, I'm <span style="color:#58A6FF;">Sarvesh Vengurlekar</span></h1>
-<h3 align="center">Aspiring Software Engineer 👨🏻‍💻  •  Python Developer </>  •  IoT Innovator 🤖 </h3>
+<h3 align="center">Aspiring Software Engineer 👨🏻‍💻</h3>
 
 ---
 
 ## 🌌 About Me
 
-I’m an **engineer & creator** passionate about **building solutions that blend AI, IoT, and real-world impact**.  
-
-🔭 **What I’m Worked On**
-- 🌱 **Smart IoT ecosystems** that improve agriculture & healthcare
-- 🌐 Web-based platforms for **education & research**
+I’m an **aspiring software engineer** passionate about **building solutions that have real-world impact**.  
 
 📍 **Location**: Maharashtra, India 🇮🇳  
-🎯 **Goal**: Create **scalable, meaningful, and accessible** software tools that empowers people.  
-
----
-
-## 🏆 Key Projects  
-
-### 🎛️ **Signal Processing Virtual Lab**
-- Link : https://sp-virtuallab.fcrit.ac.in
-- 🖥️ A **virtual lab** for students to learn and experiment with **signal processing**.  
-- 🎚️ Includes FFT, filtering, mixing, amplitude scaling & visualization.  
-- 📊 Web-based interface for **interactive learning and research**.
 
 ---
 
